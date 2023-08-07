@@ -1,0 +1,58 @@
+¿Qué es LINQ?
+/////////////
+
+LINQ -> Language-Integrated Query
+
+Es una librería de .net, creada en 2007.
+
+Permite realizar queries más sencillas.
+
+Tiene dos formas de implementación:
+
+* Query Expression: permite crear queries más cercanos a SQL pero en lenguaje C#.
+
+* Métodos de extensión: son métodos que permiten realizar diferentes operaciones.
+
+System.Linq -> namespace para consumir la librería.
+
+¿Qué NO es LINQ?
+
+* No es un lenguaje de programación.
+* No es un componente de SQL.
+* No es un componente de base de datos.
+* No es una librería de terceros.
+
+Programación declarativas vs. programación imperativa
+/////////////////////////////////////////////////////
+
+° Tiene un paradigma de programación diferente.
+
+° La programación declarativa son instrucciones donde especifico lo que
+  quiero realizar y no cómo lo quiero realizar. En la programación imperativa 
+  se especifica paso a paso las instrucciones para realizar una determinada tarea.
+
+° La programación declarativa es más fiable y simple. La programación imperativa
+  es más extensa pero es más sencilla de interpretar.
+
+Operadores Básicos
+//////////////////
+
+* Where *
+
+Recibe una o varias condiciones y filtra la colección (al igual que en SQL).
+
+* All y Any *
+
+All -> verifica que 1 o más condiciones se cumplan en la colección.
+
+Any -> verifica que 1 o más condiciones se cumpla en al menos 1 elemento
+de la colección:
+
+* Contains *
+
+Permite determinar si la colección contiene un determinado elemento.
+Sirve para tipos complejos y primitívos.
+
+* OrderBy y OrderByDescending *
+
+Permiten ordenar una colección de manera ascedente o descendente.

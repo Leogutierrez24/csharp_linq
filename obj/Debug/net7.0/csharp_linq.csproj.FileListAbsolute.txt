@@ -1,0 +1,15 @@
+I:\Platzi\csharp_linq\bin\Debug\net7.0\csharp_linq.exe
+I:\Platzi\csharp_linq\bin\Debug\net7.0\csharp_linq.deps.json
+I:\Platzi\csharp_linq\bin\Debug\net7.0\csharp_linq.runtimeconfig.json
+I:\Platzi\csharp_linq\bin\Debug\net7.0\csharp_linq.dll
+I:\Platzi\csharp_linq\bin\Debug\net7.0\csharp_linq.pdb
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.csproj.AssemblyReference.cache
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.GeneratedMSBuildEditorConfig.editorconfig
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.AssemblyInfoInputs.cache
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.AssemblyInfo.cs
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.csproj.CoreCompileInputs.cache
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.dll
+I:\Platzi\csharp_linq\obj\Debug\net7.0\refint\csharp_linq.dll
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.pdb
+I:\Platzi\csharp_linq\obj\Debug\net7.0\csharp_linq.genruntimeconfig.cache
+I:\Platzi\csharp_linq\obj\Debug\net7.0\ref\csharp_linq.dll
