@@ -56,3 +56,53 @@ Sirve para tipos complejos y primitívos.
 * OrderBy y OrderByDescending *
 
 Permiten ordenar una colección de manera ascedente o descendente.
+
+* Take y Skip *
+
+Take -> Toma una cantidad de elementos específica de una colección.
+
+Skip -> Omite una cantidad de elementos especificos de una colección.
+
+Selección dinámica de datos
+///////////////////////////
+
+* Select *
+
+Permite seleccionar columnas específicas sin retornar todo el objeto.
+
+* LongCount y Count *
+
+Count (32 bits) int
+LongCount (64 bits) long
+
+Permite calcular la cantidad de elementos que posee una colección.
+
+* Min y Max *
+
+Permiten obtener los valores mínimos o máximos de una colección.
+
+* MinBy y MaxBy *
+
+Tienen la misma funcionalidad que Min y Max con la diferencia de que pueden retornar
+el objeto de la colección que cumpla con la condición.
+
+* Sum y Aggregate *
+
+Sum -> retorna el valor de la sumas de las propiedades que cumplan con una condición dada.
+
+
+Operadores de Agrupamiento
+//////////////////////////
+
+Cláusula GroupBy
+----------------
+
+Permite agrupar elementos de acuerdo a una propiedad en particular.
+
+Cláusula Lookup
+---------------
+
+Cláusula Join
+-------------
+
+Permite obtener un objeto que se repite en dos colecciones.
